@@ -1,0 +1,6 @@
+# Allowed for convenience #
+###########################
+
+!*.dll
+!*.so
+!bin/
