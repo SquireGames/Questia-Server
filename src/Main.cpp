@@ -16,9 +16,9 @@
 
 #include <iostream>
 #include <stdexcept>
-#include <unistd.h> //getopt
+#include <unistd.h>
 
-#include "QuestiaEng/Server/Server.h"
+#include "QuestiaEng/Multiplayer/Server.h"
 
 int main(int argc, char** argv)
 {
